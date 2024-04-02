@@ -2,12 +2,9 @@ package sorenrahimi.g1s1m3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import sorenrahimi.g1s1m3.entities.Menu;
-import sorenrahimi.g1s1m3.entities.MenuItem;
-import sorenrahimi.g1s1m3.entities.Pizza;
-import sorenrahimi.g1s1m3.entities.Topping;
+
 
 @SpringBootApplication
 public class G1S1M3Application {
